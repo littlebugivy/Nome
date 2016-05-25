@@ -6,7 +6,9 @@ Details:
 Website and mobile end development - My part (Screenshots and version of prototype are uploaded: see above)    
 Early stage of the prototype viewed: [nome_prototype](https://github.com/littlebugivy/Nome/tree/master/nome_prototype)  
 The mobile version can be viewed adding WeChat account: nomeinfo  
+Also can view video: [Mobile Version Intro_video](https://github.com/littlebugivy/Nome/blob/master/nome_intro.m4v)
 The web version can be viewed on the website: www.nomeinfo.cn (Recommand to use Chrome, some functionalities are closed for testing recently, slow speed is due to the server is located in China)  
+
 
 
  User Index - Web end
