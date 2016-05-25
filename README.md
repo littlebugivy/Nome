@@ -1,19 +1,22 @@
 # Nome Info
-Website and mobile end development - My part (Screenshots are uploaded, some of them are shown below)  
+
+Nome info is a start-up that aims to provide the latest news and activities to the students in the school. Students can publish activities through our platform and also join activities. Besides, we offer other services such as weekly interesting self-directed videos and weekend group activity discounts. It was born less than 6 months. Now it has more than 1700 people registered and more than 700 people released at least one activity through our platfrom in UNNC.  
+
+Details:   
+Website and mobile end development - My part (Screenshots and version of prototype are uploaded: see above)  
 The mobile version can be viewed adding WeChat account: nomeinfo  
 The web version can be viewed on the website: www.nomeinfo.cn (Recommand to use Chrome, some functionalities are closed for testing recently, slow speed is due to the server is located in China)  
 
-  User Index - Web end
+
+ User Index - Web end
 ![alt tag](https://github.com/littlebugivy/Nome/blob/master/user_index.png)
 
-Base Setting - Web end  
+ Base Activity Setting - Web end   
 ![alt tag](https://github.com/littlebugivy/Nome/blob/master/base_setting.png)
 
-Join Activity - Mobile end  
+ Join Activity - Mobile end   
 ![alt tag](https://github.com/littlebugivy/Nome/blob/master/join_activity.jpg)
 
-Side Bar - Mobile end  
+ Side Bar - Mobile end  
 ![alt tag](https://github.com/littlebugivy/Nome/blob/master/sidebar.jpg)
 
-User Index - Mobile end  
-![alt tag](https://github.com/littlebugivy/Nome/blob/master/user.png)
